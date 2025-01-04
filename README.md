@@ -2,7 +2,7 @@
   <img src="https://radare.arzfun.com/api/tg/photo?id=BQACAgUAAxkBAAEDM4lnePfVKBlyA4QSuJXQLIXkxJ_33gACRBUAAgRhyVeWJzgxtC73ZDYE" alt="Moluuzx-Auto-filter">
 </p>
 <h1 align="center">
-  <a href="https://telegram.me/JISSHU_BOTS">Movie/Auto Filter Bot</a>
+  <a href="http://t.me/monuuzx">Movie/Auto Filter Bot owner😌 </a>
 </h1>
 <img src="https://cdn.jsdelivr.net/gh/Jisshubot/Jisshubot/resources/hr.gif"/>
 
